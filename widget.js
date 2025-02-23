@@ -29,6 +29,11 @@
         </div>
       `;
 
+      // Add click event to open chat window
+      genieContainer.addEventListener('click', function() {
+        alert("🚀 Growth Genie is here to help! (This is a placeholder for chat functionality)");
+      });
+
       // Append the container to the body
       document.body.appendChild(genieContainer);
 

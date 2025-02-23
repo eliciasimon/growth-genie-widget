@@ -43,5 +43,5 @@
     console.log('Growth Genie: 🚫 Not on course page. Skipping initialization.');
   }
 })();
-// Force Cache Bust Version 3001
+// Force Cache Bust Version 4001
 

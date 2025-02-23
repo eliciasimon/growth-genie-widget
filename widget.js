@@ -42,4 +42,4 @@
   } else {
     console.log('Growth Genie: 🚫 Not on course page. Skipping initialization.');
   }
-})(); 
+})();
